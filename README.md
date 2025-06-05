@@ -1,8 +1,9 @@
 <h1 align="center">Hey there! 🍵 I'm Guraycha03</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="Welcome GIF" />
+  <img src="cha.gif" width="250" alt="Cute GIF" />
 </p>
+
 
 ---
 
