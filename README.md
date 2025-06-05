@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 🍵 I'm Guraycha03</h1>
+<h1 align="center">Hey there, welcome to my space ☁️ I'm Cha 🍵 </h1>
 
 <p align="center">
   <img src="cha.gif" width="250" alt="Cute GIF" />
@@ -22,7 +22,6 @@
 ![HTML](https://img.shields.io/badge/HTML-F16529?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-306998?logo=python&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
