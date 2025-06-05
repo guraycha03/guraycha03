@@ -6,11 +6,14 @@
 
 ---
 
+
 ### 🎓 About Me
 - 👨‍💻 I'm a **BSIT student** with a passion for technology  
 - 🌱 Currently learning **programming**, **web design**, and **web development**  
 - ✨ I love exploring new tools, building small projects, and growing my skills  
 - ☁️ Dreaming big, learning one line of code at a time!
+
+
 
 ---
 
@@ -31,7 +34,7 @@
 ---
 
 ### 🌐 Let's Connect!
-- 💌 Email: guraycha@gmail.com  
+- 💌 Email: [guraycha@gmail.com](mailto:guraycha@gmail.com)
 
 ---
 
