@@ -30,14 +30,18 @@ I love exploring new tools, building small projects, and continuously improving 
 </h2>
 
 <p align="center" style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+
   <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-F9D5D3?style=flat&logo=html5&logoColor=E34F26&color=F9D5D3" />
+  <img src="https://img.shields.io/badge/HTML5-FFDDD2?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  
   <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-CFE2FF?style=flat&logo=css3&logoColor=2965F1&color=CFE2FF" />
+  <img src="https://img.shields.io/badge/CSS3-CDE7FF?style=for-the-badge&logo=css3&logoColor=2965F1" />
+  
   <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-FFF6C3?style=flat&logo=javascript&logoColor=F7DF1E&color=FFF6C3" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF8C5?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  
   <!-- VS Code -->
-  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=flat&logo=visual-studio-code&logoColor=007ACC&color=D6F6FF" />
+  <img src="https://img.shields.io/badge/VS_Code-D6F6FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
 <p align="center">
@@ -69,13 +73,13 @@ I love exploring new tools, building small projects, and continuously improving 
   Let's Connect!
 </h2>
 
-<!-- FIXED BADGES + REMOVED BLUE UNDERSCORE -->
-<p align="center" style="display:flex; gap:10px; justify-content:center;">
-  <a href="mailto:guraycha@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-F9D5D3?style=flat&logo=gmail&logoColor=EA4335&color=F9D5D3" />
+<!-- FIXED BADGES -->
+<p align="center">
+  <a href="mailto:guraycha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://github.com/guraycha03" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=flat&logo=github&logoColor=000000&color=DDEBFF" />
+  <a href="https://github.com/guraycha03">
+    <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000" />
   </a>
 </p>
 
