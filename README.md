@@ -75,16 +75,15 @@ I love exploring new tools, building small projects, and continuously improving 
   Let's Connect!
 </h2>
 
-<!-- FIXED BADGES WITH PROPER SPACING -->
 <p align="center">
-  <a href="mailto:guraycha@gmail.com" style="text-decoration:none; margin-right:15px;">
+  <a href="mailto:guraycha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-  <a href="https://github.com/guraycha03" style="text-decoration:none;">
+  &nbsp;&nbsp;&nbsp; <!-- ← THIS ADDS SPACE -->
+  <a href="https://github.com/guraycha03">
     <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
   </a>
 </p>
-
 
 
 ---
