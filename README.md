@@ -14,12 +14,16 @@
 ---
 
 <!-- ABOUT ME -->
-<h2 align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/9308/9308872.png" width="25" height="25" style="margin-right:8px;vertical-align:middle;" />
+<h2 align="left" style="display: flex; align-items: center; gap: 8px; margin: 0;">
+  <img src="https://cdn-icons-png.flaticon.com/512/9308/9308872.png" 
+       width="25" 
+       height="25" 
+       style="position: relative; top: 2px;" />
   About Me
 </h2>
 
-<sub>Icon by <a href="https://www.flaticon.com/" target="_blank">Freepik – Flaticon</a></sub>
+
+<sub>Icon by <a href="https://www.flaticon.com/free-icons/rabbit" title="rabbit icons">Rabbit icons created by Freepik - Flaticon</a></sub>
 
 
 I'm a **BSIT student** passionate about creating **clean, modern, and user-friendly web experiences**.  
