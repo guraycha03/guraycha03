@@ -79,11 +79,14 @@ I love exploring new tools, building small projects, and continuously improving 
   <a href="mailto:guraycha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-  &nbsp;&nbsp;&nbsp; <!-- ← THIS ADDS SPACE -->
+</p>
+
+<p align="center">
   <a href="https://github.com/guraycha03">
     <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
   </a>
 </p>
+
 
 
 ---
