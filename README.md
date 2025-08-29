@@ -15,9 +15,12 @@
 
 <!-- ABOUT ME -->
 <h2 align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/2922/2922656.png" width="25" height="25" style="margin-right:8px;vertical-align:middle;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/9308/9308872.png" width="25" height="25" style="margin-right:8px;vertical-align:middle;" />
   About Me
 </h2>
+
+<sub>Icon by <a href="https://www.flaticon.com/" target="_blank">Freepik – Flaticon</a></sub>
+
 
 I'm a **BSIT student** passionate about creating **clean, modern, and user-friendly web experiences**.  
 I love exploring new tools, building small projects, and continuously improving my skills.
