@@ -1,8 +1,11 @@
-<!-- HEADER -->
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student%2C+Aspiring+Web+Developer;Clean%2C+Minimal%2C+Modern+Design+Lover" alt="Typing SVG" />
+  <a href="https://github.com/guraycha03">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student%2C+Aspiring+Web+Developer;Clean%2C+Minimal%2C+Modern+Design+Lover" alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- MAIN GIF -->
 <p align="center">
   <img src="guray_cha.gif" width="240" alt="Cute GIF" />
 </p>
@@ -12,38 +15,28 @@
 ---
 
 ## 🌱 About Me
-
 I'm a **BSIT student** passionate about creating **clean, modern, and interactive web experiences**.  
 I love building projects that are responsive, playful, and visually soft on the eyes.
 
 - 🌱 Currently learning **HTML**, **CSS**, **JavaScript**, **React**, and **UI/UX design**  
-- 🌿 Inspired by **minimalist and pastel-themed web design**
+- 🌿 Inspired by **minimalist and pastel-themed web design**  
 
 ---
 
 ## 💻 Tech & Tools
 
 <p align="center">
-  <!-- Row 1 -->
-  ![HTML](https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=fff) 
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff) 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) 
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-</p>
-
-<p align="center">
-  <!-- Row 2 -->
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff) 
-  ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff) 
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff) 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
-</p>
-
-<p align="center">
-  <!-- Row 3 -->
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff) 
-  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff) 
-  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+  <img src="https://img.shields.io/badge/HTML-FFD1DC?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-C1E1FF?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF7C0?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-D6F5FF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-E0E0FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind-D1F7E0?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-DFF0D8?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-E0F7FA?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Vite-FFF4E1?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
 </p>
 
 <sub>Expanding my toolkit & experimenting with modern frameworks ✨</sub>
@@ -82,9 +75,15 @@ I love building projects that are responsive, playful, and visually soft on the 
 ## 📫 Let's Connect!
 
 <p align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:guraycha@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-DDEBFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/charisse-guray-786a92311/)
-  [![GitHub](https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/guraycha03)
+  <a href="mailto:guraycha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/charisse-guray-786a92311/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-DDEBFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/guraycha03">
+    <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
+  </a>
 </p>
 
 ---
