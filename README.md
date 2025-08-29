@@ -67,21 +67,24 @@ I love exploring new tools, building small projects, and continuously improving 
 
 ---
 
+
+
 <!-- CONNECT -->
 <h2 align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="25" height="25" style="margin-right:8px;vertical-align:middle;" />
   Let's Connect!
 </h2>
 
-<!-- FIXED BADGES (NO BLUE UNDERLINE) -->
+<!-- FIXED BADGES WITH PROPER SPACING -->
 <p align="center">
-  <a href="mailto:guraycha@gmail.com" style="text-decoration:none;">
+  <a href="mailto:guraycha@gmail.com" style="text-decoration:none; margin-right:15px;">
     <img src="https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
   <a href="https://github.com/guraycha03" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
   </a>
 </p>
+
 
 
 ---
