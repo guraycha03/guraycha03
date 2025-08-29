@@ -35,7 +35,7 @@ I love building projects that are responsive, playful, and visually soft on the 
   <img src="https://img.shields.io/badge/Node.js-DFF0D8?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
   <img src="https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VSCode-E0F7FA?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VSCode" />
+  <img src="https://img.shields.io/badge/VS_Code-E0F7FA?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VSCode" />
   <img src="https://img.shields.io/badge/Vite-FFF4E1?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
 </p>
 
