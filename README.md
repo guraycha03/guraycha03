@@ -18,8 +18,7 @@ I'm a **BSIT student** passionate about creating **clean, modern, and user-frien
 I love exploring new tools, building small projects, and continuously improving my skills.  
 
 - 🌱 Currently learning **HTML**, **CSS**, **JavaScript**, and **responsive web design**  
-- ☁️ Diving into **front-end development** and UI/UX design  
-
+- ☁️ Exploring **front-end development** & **UI/UX design**  
 
 ---
 
@@ -30,14 +29,18 @@ I love exploring new tools, building small projects, and continuously improving 
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-FFE5D9?style=for-the-badge&logo=html5&logoColor=E44D26&labelColor=fff&borderRadius=30" />
-  <img src="https://img.shields.io/badge/CSS3-E0E7FF?style=for-the-badge&logo=css3&logoColor=2965F1&labelColor=fff&borderRadius=30" />
-  <img src="https://img.shields.io/badge/JavaScript-FFFACD?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=fff&borderRadius=30" />
-  <img src="https://img.shields.io/badge/VSCode-E4F1FE?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=fff&borderRadius=30" />
+  <!-- HTML -->
+  <img src="https://img.shields.io/badge/HTML5-F9D5D3?style=flat&logo=html5&logoColor=E34F26&color=F9D5D3&labelColor=fff&borderRadius=10" />
+  <!-- CSS -->
+  <img src="https://img.shields.io/badge/CSS3-CFE2FF?style=flat&logo=css3&logoColor=2965F1&color=CFE2FF&labelColor=fff&borderRadius=10" />
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-FFF6C3?style=flat&logo=javascript&logoColor=F7DF1E&color=FFF6C3&labelColor=fff&borderRadius=10" />
+  <!-- VS Code -->
+  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=flat&logo=visual-studio-code&logoColor=007ACC&color=D6F6FF&labelColor=fff&borderRadius=10" />
 </p>
 
 <p align="center">
-  <sub>Expanding my toolkit, experimenting with modern frameworks ✨</sub>
+  <sub>Expanding my toolkit & experimenting with modern frameworks ✨</sub>
 </p>
 
 ---
@@ -67,10 +70,10 @@ I love exploring new tools, building small projects, and continuously improving 
 
 <p align="center">
   <a href="mailto:guraycha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFE5D9?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=fff&borderRadius=30" />
+    <img src="https://img.shields.io/badge/Email-F9D5D3?style=flat&logo=gmail&logoColor=EA4335&color=F9D5D3&labelColor=fff&borderRadius=10" />
   </a>
   <a href="https://github.com/guraycha03">
-    <img src="https://img.shields.io/badge/GitHub-E0E7FF?style=for-the-badge&logo=github&logoColor=000000&labelColor=fff&borderRadius=30" />
+    <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=flat&logo=github&logoColor=000000&color=DDEBFF&labelColor=fff&borderRadius=10" />
   </a>
 </p>
 
