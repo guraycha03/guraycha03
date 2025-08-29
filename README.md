@@ -14,13 +14,15 @@
 ---
 
 <!-- ABOUT ME -->
-<h2 align="left" style="display: flex; align-items: center; gap: 8px; margin: 0;">
+<h2 align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/9308/9308872.png" 
-       width="25" 
-       height="25" 
-       style="position: relative; top: 2px;" />
+       width="28" 
+       height="28" 
+       style="margin-right:8px; position: relative; top: 4px;" />
   About Me
 </h2>
+
+
 
 
 <sub>Icon by <a href="https://www.flaticon.com/free-icons/rabbit" title="rabbit icons">Rabbit icons created by Freepik - Flaticon</a></sub>
