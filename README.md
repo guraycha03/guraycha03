@@ -1,7 +1,18 @@
-<!-- HEADER -->
-<h1 align="center">🍡 Hey there, I'm <span style="color:#86B6F6;">Cha</span> 🍵</h1>
-<p align="center">Welcome to my cozy little corner of GitHub 🫶🏻</p>
+<!-- ANIMATED HEADER -->
+<p align="center">
+  <a href="https://github.com/guraycha03">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student+%7C+Aspiring+Web+Developer;Clean+%7C+Minimal+%7C+Modern+Design+Lover" alt="Typing SVG" />
+  </a>
+</p>
 
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=guraycha03&style=flat-square&color=86B6F6" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/guraycha03?style=flat-square&color=86B6F6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/guraycha03?style=flat-square&color=86B6F6" alt="Stars" />
+</p>
+
+<!-- MAIN GIF -->
 <p align="center">
   <img src="cha.gif" width="240" alt="Cute GIF" />
 </p>
@@ -23,25 +34,14 @@ I love exploring new tools, building small projects, and continuously improving 
 
 ---
 
-<!-- TOOLKIT -->
+<!-- TECH & TOOLS -->
 <h2 align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/833/833472.png" width="25" height="25" style="margin-right:8px;vertical-align:middle;" />
   Tech & Tools
 </h2>
 
-<p align="center" style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
-
-  <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-FFDDD2?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  
-  <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-CDE7FF?style=for-the-badge&logo=css3&logoColor=2965F1" />
-  
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-FFF8C5?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  
-  <!-- VS Code -->
-  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,vscode,github&theme=light" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ I love exploring new tools, building small projects, and continuously improving 
 
 ---
 
-<!-- STATS -->
+<!-- GITHUB STATS -->
 <h2 align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/1828/1828817.png" width="25" height="25" style="margin-right:8px;vertical-align:middle;" />
   GitHub Stats
@@ -67,7 +67,56 @@ I love exploring new tools, building small projects, and continuously improving 
 
 ---
 
+<!-- PINNED PROJECTS -->
+<h2 align="left">🚀 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/guraycha03/smashpoint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=smashpoint&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
+  </a>
+  <a href="https://github.com/guraycha03/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=portfolio&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
+  </a>
+</p>
 
+---
+
+<!-- TROPHIES -->
+<h2 align="left">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guraycha03&theme=flat&no-frame=true&row=1&margin-w=5&margin-h=5&title=Commits,Stars,Followers,Repositories" />
+</p>
+
+---
+
+<!-- LEARNING & GOALS -->
+<h2 align="left">📚 Currently Learning & Goals</h2>
+
+- 🖥️ Mastering **HTML, CSS, JS**
+- 🎨 Exploring **UI/UX principles**
+- ⚡ Working on **personal projects**
+- 🌱 Goal: Build **my first full-stack website**
+
+---
+
+<!-- ACHIEVEMENTS -->
+<h2 align="left">🏅 Achievements</h2>
+
+- 🥇 Completed **10+ mini-projects**  
+- 🌟 Consistently improving my **UI/UX skills**  
+- 🚀 Built my first **responsive website**  
+- 📌 Currently building **SmashPoint** *(Sports E-commerce Site)*
+
+---
+
+<!-- FUN FACTS -->
+<h2 align="left">🎀 Fun Facts About Me</h2>
+
+- 🍵 I drink **matcha latte** while coding  
+- 🐱 I love **aesthetic, minimalist designs**  
+- 🎧 Coding + **lofi beats** = perfect combo  
+- ✨ I'm obsessed with **soft pastel palettes**
+
+---
 
 <!-- CONNECT -->
 <h2 align="left">
@@ -79,15 +128,10 @@ I love exploring new tools, building small projects, and continuously improving 
   <a href="mailto:guraycha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/guraycha03">
     <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
   </a>
 </p>
-
-
 
 ---
 
