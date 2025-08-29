@@ -1,11 +1,8 @@
-<!-- ANIMATED HEADER -->
+<!-- HEADER -->
 <p align="center">
-  <a href="https://github.com/guraycha03">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student%2C+Aspiring+Web+Developer;Clean%2C+Minimal%2C+Modern+Design+Lover" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student%2C+Aspiring+Web+Developer;Clean%2C+Minimal%2C+Modern+Design+Lover" alt="Typing SVG" />
 </p>
 
-<!-- MAIN GIF -->
 <p align="center">
   <img src="guray_cha.gif" width="240" alt="Cute GIF" />
 </p>
@@ -14,55 +11,37 @@
 
 ---
 
-<!-- ABOUT ME -->
-<h2 align="left" style="display: flex; align-items: center; gap: 8px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/9308/9308872.png" width="25" height="25" style="position: relative; top: 2px;" />
-  About Me
-</h2>
+## 🌱 About Me
 
 I'm a **BSIT student** passionate about creating **clean, modern, and interactive web experiences**.  
 I love building projects that are responsive, playful, and visually soft on the eyes.
 
 - 🌱 Currently learning **HTML**, **CSS**, **JavaScript**, **React**, and **UI/UX design**  
-- 🌿 Inspired by **minimalist and pastel-themed web design**  
+- 🌿 Inspired by **minimalist and pastel-themed web design**
 
 ---
 
-
-<!-- TECH & TOOLS -->
-<h2 align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/11232/11232239.png" width="28" height="28" style="margin-right:8px; position: relative; top: 4px;" />
-  Tech & Tools
-</h2>
-
-<sub>Icon by <a href="https://www.flaticon.com/free-icons/technology" title="technology icons">Technology icons by Muhammad Ali - Flaticon</a></sub>
+## 💻 Tech & Tools
 
 <p align="center">
-  <a href="#"><img src="./assets/icons/html-badge.svg" alt="HTML" /></a>
-  <a href="#"><img src="./assets/icons/css-badge.svg" alt="CSS" /></a>
-  <a href="#"><img src="./assets/icons/js-badge.svg" alt="JavaScript" /></a>
-  <a href="#"><img src="./assets/icons/react-badge.svg" alt="React" /></a>
-  <a href="#"><img src="./assets/icons/bootstrap-badge.svg" alt="Bootstrap" /></a>
-  <a href="#"><img src="./assets/icons/tailwind-badge.svg" alt="Tailwind" /></a>
-  <a href="#"><img src="./assets/icons/nodejs-badge.svg" alt="Node.js" /></a>
-  <a href="#"><img src="./assets/icons/git-badge.svg" alt="Git" /></a>
-  <a href="#"><img src="./assets/icons/github-badge.svg" alt="GitHub" /></a>
-  <a href="#"><img src="./assets/icons/vscode-badge.svg" alt="VSCode" /></a>
-  <a href="#"><img src="./assets/icons/vite-badge.svg" alt="Vite" /></a>
+  ![HTML](https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=fff)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+  ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+  ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
 </p>
 
 <sub>Expanding my toolkit & experimenting with modern frameworks ✨</sub>
 
-
-
-
 ---
 
-<!-- FEATURED PROJECTS -->
-<h2 align="left">
-  <img src="https://raw.githubusercontent.com/tailwindlabs/heroicons/master/optimized/24/outline/folder.svg" width="26" height="26" style="margin-right:8px;" />
-  Featured Projects
-</h2>
+## 📂 Featured Projects
 
 <p align="center">
   <a href="https://github.com/guraycha03/smashpoint">
@@ -78,11 +57,7 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ---
 
-<!-- GITHUB STATS -->
-<h2 align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/11378/11378785.png" width="28" height="28" style="margin-right:8px; position: relative; top: 4px;" />
-  GitHub Stats
-</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guraycha03&show_icons=true&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6&icon_color=86B6F6" height="160" />
@@ -95,22 +70,12 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ---
 
-<!-- CONNECT -->
-<h2 align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/646/646094.png" width="25" height="25" style="margin-right:8px; vertical-align:middle;" />
-  Let's Connect!
-</h2>
+## 📫 Let's Connect!
 
 <p align="center">
-  <a href="mailto:guraycha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/charisse-guray-786a92311/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-DDEBFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/guraycha03">
-    <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
-  </a>
+  [![Gmail](https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:guraycha@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-DDEBFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/charisse-guray-786a92311/)
+  [![GitHub](https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/guraycha03)
 </p>
 
 ---
