@@ -37,10 +37,70 @@ I love building projects that are responsive, playful, and visually soft on the 
 <sub>Icon by <a href="https://www.flaticon.com/free-icons/technology" title="technology icons">Technology icons by Muhammad Ali - Flaticon</a></sub>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,git,github,figma,vscode&theme=light" />
+
+<!-- HTML Badge -->
+<span style="display:inline-block; background:#FFD1DC; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#E34F26;">
+  <img src="./assets/icons/html-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> HTML
+</span>
+
+<!-- CSS Badge -->
+<span style="display:inline-block; background:#C1E1FF; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#1572B6;">
+  <img src="./assets/icons/css-3-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> CSS
+</span>
+
+<!-- JavaScript Badge -->
+<span style="display:inline-block; background:#FFF7C0; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#F7DF1E;">
+  <img src="./assets/icons/js-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> JavaScript
+</span>
+
+<!-- React Badge -->
+<span style="display:inline-block; background:#D6F5FF; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#61DAFB;">
+  <img src="./assets/icons/react-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> React
+</span>
+
+<!-- Bootstrap Badge -->
+<span style="display:inline-block; background:#E0E0FF; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#7952B3;">
+  <img src="./assets/icons/bootstrap-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> Bootstrap
+</span>
+
+<!-- Tailwind Badge -->
+<span style="display:inline-block; background:#D1F7E0; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#38B2AC;">
+  <img src="./assets/icons/tailwind-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> Tailwind
+</span>
+
+<!-- Node.js Badge -->
+<span style="display:inline-block; background:#DFF0D8; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#339933;">
+  <img src="./assets/icons/nodejs-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> Node.js
+</span>
+
+<!-- Git Badge -->
+<span style="display:inline-block; background:#FFE4E1; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#F05032;">
+  <img src="./assets/icons/github-142-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> Git
+</span>
+
+<!-- GitHub Badge -->
+<span style="display:inline-block; background:#E6E6FA; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#181717;">
+  <img src="./assets/icons/github.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> GitHub
+</span>
+
+<!-- GitHub Desktop Badge -->
+<span style="display:inline-block; background:#FFF0F5; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#24292F;">
+  <img src="./assets/icons/github-desktop-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> GitHub Desktop
+</span>
+
+<!-- VSCode Badge -->
+<span style="display:inline-block; background:#E0F7FA; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#007ACC;">
+  <img src="./assets/icons/vscode.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> VSCode
+</span>
+
+<!-- Vite Badge -->
+<span style="display:inline-block; background:#FFF4E1; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#646CFF;">
+  <img src="./assets/icons/vite-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> Vite
+</span>
+
 </p>
 
-<sub>Expanding my toolkit and experimenting with modern frameworks ✨</sub>
+<sub>Expanding my toolkit & experimenting with modern frameworks ✨</sub>
 
 ---
 
