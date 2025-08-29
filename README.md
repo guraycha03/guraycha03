@@ -28,6 +28,7 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ---
 
+
 <!-- TECH & TOOLS -->
 <h2 align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/11232/11232239.png" width="28" height="28" style="margin-right:8px; position: relative; top: 4px;" />
@@ -36,23 +37,24 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 <sub>Icon by <a href="https://www.flaticon.com/free-icons/technology" title="technology icons">Technology icons by Muhammad Ali - Flaticon</a></sub>
 
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
-<!-- TECH & TOOLS as shields -->
 <p align="center">
-  <a href="#"><img src="./assets/badges/html-badge.svg" alt="HTML" /></a>
-  <a href="#"><img src="./assets/badges/css-badge.svg" alt="CSS" /></a>
-  <a href="#"><img src="./assets/badges/js-badge.svg" alt="JavaScript" /></a>
-  <a href="#"><img src="./assets/badges/react-badge.svg" alt="React" /></a>
-  <a href="#"><img src="./assets/badges/bootstrap-badge.svg" alt="Bootstrap" /></a>
-  <a href="#"><img src="./assets/badges/tailwind-badge.svg" alt="Tailwind" /></a>
-  <a href="#"><img src="./assets/badges/nodejs-badge.svg" alt="Node.js" /></a>
-  <a href="#"><img src="./assets/badges/git-badge.svg" alt="Git" /></a>
-  <a href="#"><img src="./assets/badges/github-badge.svg" alt="GitHub" /></a>
-  <a href="#"><img src="./assets/badges/vscode-badge.svg" alt="VSCode" /></a>
-  <a href="#"><img src="./assets/badges/vite-badge.svg" alt="Vite" /></a>
+  <a href="#"><img src="./assets/icons/html-badge.svg" alt="HTML" /></a>
+  <a href="#"><img src="./assets/icons/css-badge.svg" alt="CSS" /></a>
+  <a href="#"><img src="./assets/icons/js-badge.svg" alt="JavaScript" /></a>
+  <a href="#"><img src="./assets/icons/react-badge.svg" alt="React" /></a>
+  <a href="#"><img src="./assets/icons/bootstrap-badge.svg" alt="Bootstrap" /></a>
+  <a href="#"><img src="./assets/icons/tailwind-badge.svg" alt="Tailwind" /></a>
+  <a href="#"><img src="./assets/icons/nodejs-badge.svg" alt="Node.js" /></a>
+  <a href="#"><img src="./assets/icons/git-badge.svg" alt="Git" /></a>
+  <a href="#"><img src="./assets/icons/github-badge.svg" alt="GitHub" /></a>
+  <a href="#"><img src="./assets/icons/vscode-badge.svg" alt="VSCode" /></a>
+  <a href="#"><img src="./assets/icons/vite-badge.svg" alt="Vite" /></a>
 </p>
 
 <sub>Expanding my toolkit & experimenting with modern frameworks ✨</sub>
+
+
+
 
 ---
 
