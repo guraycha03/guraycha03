@@ -70,27 +70,27 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 <!-- Node.js Badge -->
 <span style="display:inline-block; background:#DFF0D8; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#339933;">
-  <img src="./assets/icons/nodejs-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> Node.js
+  <img src="./assets/icons/node-js-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> Node.js
 </span>
 
 <!-- Git Badge -->
 <span style="display:inline-block; background:#FFE4E1; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#F05032;">
-  <img src="./assets/icons/github-142-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> Git
+  <img src="./assets/icons/git-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> Git
 </span>
 
 <!-- GitHub Badge -->
 <span style="display:inline-block; background:#E6E6FA; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#181717;">
-  <img src="./assets/icons/github.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> GitHub
+  <img src="./assets/icons/github-142-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> GitHub
 </span>
 
 <!-- GitHub Desktop Badge -->
 <span style="display:inline-block; background:#FFF0F5; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#24292F;">
-  <img src="./assets/icons/github-desktop-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> GitHub Desktop
+  <img src="./assets/icons/github-desktop.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> GitHub Desktop
 </span>
 
 <!-- VSCode Badge -->
 <span style="display:inline-block; background:#E0F7FA; padding:8px 12px; border-radius:20px; margin:5px; font-weight:600; font-size:0.9rem; color:#007ACC;">
-  <img src="./assets/icons/vscode.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> VSCode
+  <img src="./assets/icons/vscode-svgrepo-com.svg" width="20" height="20" style="vertical-align:middle; margin-right:6px;" /> VSCode
 </span>
 
 <!-- Vite Badge -->
