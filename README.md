@@ -37,7 +37,7 @@ I love exploring new tools, building small projects, and continuously improving 
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-FFF6C3?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=fff&color=FFF6C3&borderRadius=10" />
   <!-- VS Code -->
-  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=fff&color=D6F6FF&borderRadius=10" />
+  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=flat&logo=visualstudiocode&logoColor=007ACC&labelColor=fff&color=D6F6FF&borderRadius=10" />
 </p>
 
 <p align="center">
@@ -70,10 +70,10 @@ I love exploring new tools, building small projects, and continuously improving 
 </h2>
 
 <p align="center">
-  <a href="mailto:guraycha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F9D5D3?style=flat&logo=gmail&logoColor=EA4335&color=F9D5D3&labelColor=fff&borderRadius=10" style="margin-right:8px;" />
+  <a href="mailto:guraycha@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-F9D5D3?style=flat&logo=gmail&logoColor=EA4335&color=F9D5D3&labelColor=fff&borderRadius=10" style="margin-right:10px;" />
   </a>
-  <a href="https://github.com/guraycha03">
+  <a href="https://github.com/guraycha03" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=flat&logo=github&logoColor=000000&color=DDEBFF&labelColor=fff&borderRadius=10" />
   </a>
 </p>
