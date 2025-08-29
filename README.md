@@ -31,13 +31,13 @@ I love exploring new tools, building small projects, and continuously improving 
 
 <p align="center">
   <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-F9D5D3?style=flat&logo=html5&logoColor=E34F26&labelColor=fff&color=F9D5D3" height="30" style="border-radius:8px;" />
+  <img src="https://img.shields.io/badge/HTML5-F9D5D3?style=flat&logo=html5&logoColor=E34F26&labelColor=fff&color=F9D5D3&borderRadius=10" />
   <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-CCE5FF?style=flat&logo=css3&logoColor=2965F1&labelColor=fff&color=CCE5FF" height="30" style="border-radius:8px;" />
+  <img src="https://img.shields.io/badge/CSS3-CFE2FF?style=flat&logo=css3&logoColor=2965F1&labelColor=fff&color=CFE2FF&borderRadius=10" />
   <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-FFF6C3?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=fff&color=FFF6C3" height="30" style="border-radius:8px;" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF6C3?style=flat&logo=javascript&logoColor=F7DF1E&labelColor=fff&color=FFF6C3&borderRadius=10" />
   <!-- VS Code -->
-  <img src="https://img.shields.io/badge/VS%20Code-CFFFE5?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=fff&color=CFFFE5" height="30" style="border-radius:8px;" />
+  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=fff&color=D6F6FF&borderRadius=10" />
 </p>
 
 <p align="center">
@@ -71,11 +71,10 @@ I love exploring new tools, building small projects, and continuously improving 
 
 <p align="center">
   <a href="mailto:guraycha@gmail.com">
-    <img src="https://img.shields.io/badge/✉️ Email-F9D5D3?style=flat&logo=gmail&logoColor=EA4335&color=F9D5D3&labelColor=fff" height="30" style="border-radius:8px;" />
+    <img src="https://img.shields.io/badge/Email-F9D5D3?style=flat&logo=gmail&logoColor=EA4335&color=F9D5D3&labelColor=fff&borderRadius=10" style="margin-right:8px;" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/guraycha03">
-    <img src="https://img.shields.io/badge/🐈‍⬛ GitHub-DDEBFF?style=flat&logo=github&logoColor=000000&color=DDEBFF&labelColor=fff" height="30" style="border-radius:8px;" />
+    <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=flat&logo=github&logoColor=000000&color=DDEBFF&labelColor=fff&borderRadius=10" />
   </a>
 </p>
 
