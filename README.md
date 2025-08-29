@@ -1,6 +1,11 @@
 <!-- HEADER -->
-<h1 align="center">🍡 Hey there, I'm <span style="background: linear-gradient(90deg, #86B6F6, #A5D6FF); -webkit-background-clip: text; color: transparent;">Cha</span> 🍵</h1>
-<p align="center">Welcome to my cozy little corner of GitHub 🫶🏻</p>
+<h1 align="center">
+  Hey there, I'm 
+  <span style="background: linear-gradient(90deg, #86B6F6, #A5D6FF); -webkit-background-clip: text; color: transparent;">
+    Cha
+  </span>
+</h1>
+<p align="center">Welcome to my cozy little corner of GitHub ✨</p>
 
 <p align="center">
   <img src="cha.gif" width="240" alt="Cute GIF" />
@@ -10,50 +15,53 @@
 
 <!-- ABOUT ME -->
 <h2 align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/921/921347.png" width="28" height="28" style="margin-right:8px;vertical-align:middle;" />
-  <span style="color:#86B6F6;">✨ About Me</span>
+  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="26" height="26" style="margin-right:8px;vertical-align:middle;" />
+  About Me
 </h2>
 
+<p>
 I'm a **BSIT student** passionate about creating **clean, modern, and user-friendly web experiences**.  
 I love exploring new tools, building small projects, and continuously improving my skills.
+</p>
 
-- 🌱 Currently learning **HTML**, **CSS**, **JavaScript**, and **responsive web design**
-- 🌿 Exploring **front-end development** & **UI/UX design**
+- 🌱 Learning **HTML**, **CSS**, **JavaScript**, & **responsive design**  
+- 🌿 Exploring **front-end development** & **UI/UX design**  
 - ✨ Crafting my journey — one commit at a time
 
 ---
 
 <!-- TOOLKIT -->
 <h2 align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="28" height="28" style="margin-right:8px;vertical-align:middle;" />
-  <span style="color:#86B6F6;">🛠️ Tech & Tools</span>
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828640.png" width="26" height="26" style="margin-right:8px;vertical-align:middle;" />
+  Tech & Tools
 </h2>
 
-<p align="center" style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
+<p align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center;">
 
   <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-FFDDD2?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=FFDDD2&color=FFDDD2&style=for-the-badge&borderRadius=9999px" />
+  <img src="https://img.shields.io/badge/HTML5-FFDDD2?style=for-the-badge&logo=html5&logoColor=E34F26" />
 
   <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-CDE7FF?style=for-the-badge&logo=css3&logoColor=2965F1&labelColor=CDE7FF&color=CDE7FF&borderRadius=9999px" />
+  <img src="https://img.shields.io/badge/CSS3-CDE7FF?style=for-the-badge&logo=css3&logoColor=2965F1" />
 
   <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-FFF8C5?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=FFF8C5&color=FFF8C5&borderRadius=9999px" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF8C5?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
   <!-- VS Code -->
-  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=D6F6FF&color=D6F6FF&borderRadius=9999px" />
+  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+
 </p>
 
 <p align="center">
-  <sub>🌸 Expanding my toolkit & experimenting with modern frameworks ✨</sub>
+  <sub>Expanding my toolkit & experimenting with modern frameworks ✨</sub>
 </p>
 
 ---
 
 <!-- STATS -->
 <h2 align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/2721/2721263.png" width="28" height="28" style="margin-right:8px;vertical-align:middle;" />
-  <span style="color:#86B6F6;">📊 GitHub Stats</span>
+  <img src="https://cdn-icons-png.flaticon.com/512/992/992651.png" width="26" height="26" style="margin-right:8px;vertical-align:middle;" />
+  GitHub Stats
 </h2>
 
 <p align="center">
@@ -69,20 +77,19 @@ I love exploring new tools, building small projects, and continuously improving 
 
 <!-- CONNECT -->
 <h2 align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="28" height="28" style="margin-right:8px;vertical-align:middle;" />
-  <span style="color:#86B6F6;">🤝 Let's Connect!</span>
+  <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="26" height="26" style="margin-right:8px;vertical-align:middle;" />
+  Let's Connect!
 </h2>
 
-<p align="center">
+<p align="center" style="display:flex; gap:16px; justify-content:center;">
   <a href="mailto:guraycha@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335&borderRadius=9999px" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/guraycha03">
-    <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000&borderRadius=9999px" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-<p align="center">🌸 Thanks for stopping by! Happy coding 💻✨</p>
+<p align="center">🌿 Thanks for stopping by! Keep creating & happy coding 💻✨</p>
