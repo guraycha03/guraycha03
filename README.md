@@ -1,9 +1,10 @@
 <!-- ANIMATED HEADER -->
 <p align="center">
   <a href="https://github.com/guraycha03">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student+%7C+Aspiring+Web+Developer;Clean+%7C+Minimal+%7C+Modern+Design+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student+%7C+Aspiring+Web+Developer;Clean+%7C+Minimal+%7C+Modern+Design+Lover" alt="Typing SVG" />
   </a>
 </p>
+
 
 <!-- PROFILE VIEWS & FOLLOWERS -->
 <p align="center">
