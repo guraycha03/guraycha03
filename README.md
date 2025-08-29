@@ -41,7 +41,7 @@ I love exploring new tools, building small projects, and continuously improving 
   <img src="https://img.shields.io/badge/JavaScript-FFF8C5?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
   <!-- VS Code -->
-  <img src="https://img.shields.io/badge/VS_Code-D6F6FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
 </p>
 
 <p align="center">
@@ -73,10 +73,10 @@ I love exploring new tools, building small projects, and continuously improving 
   Let's Connect!
 </h2>
 
-<!-- FIXED BADGES -->
+<!-- FIXED BADGES (NO UNDERSCORE) -->
 <p align="center">
   <a href="mailto:guraycha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-FFDDE2?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <a href="https://github.com/guraycha03">
     <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=for-the-badge&logo=github&logoColor=000000" />
