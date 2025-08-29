@@ -26,17 +26,17 @@ I love building projects that are responsive, playful, and visually soft on the 
 ## 💻 Tech & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-FFD1DC?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-C1E1FF?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-FFF7C0?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-D6F5FF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-E0E0FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind-D1F7E0?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Node.js-DFF0D8?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-FFE4E1?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-E6E6FA?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-E0F7FA?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Vite-FFF4E1?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
+  <img src="https://img.shields.io/badge/HTML-FFE6E6?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" />&nbsp;
+  <img src="https://img.shields.io/badge/CSS-E0F0FF?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" />&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-FFFEE0?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />&nbsp;
+  <img src="https://img.shields.io/badge/React-E0F7FF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-F0E6FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind-E0FFF7?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" alt="Tailwind" />&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-E6F9E6?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />&nbsp;
+  <img src="https://img.shields.io/badge/Git-FFEAE6?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-F0F0FF?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />&nbsp;
+  <img src="https://img.shields.io/badge/VSCode-E6F7FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="VSCode" />&nbsp;
+  <img src="https://img.shields.io/badge/Vite-F0F0FF?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
 </p>
 
 <sub>Expanding my toolkit & experimenting with modern frameworks ✨</sub>
