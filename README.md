@@ -31,13 +31,13 @@ I love exploring new tools, building small projects, and continuously improving 
 
 <p align="center" style="display:flex; gap:10px; flex-wrap:wrap; justify-content:center;">
   <!-- HTML -->
-  <img src="https://img.shields.io/badge/HTML5-F9D5D3?style=flat&logo=html5&logoColor=E34F26&color=F9D5D3&borderRadius=10" />
+  <img src="https://img.shields.io/badge/HTML5-F9D5D3?style=flat&logo=html5&logoColor=E34F26&color=F9D5D3" />
   <!-- CSS -->
-  <img src="https://img.shields.io/badge/CSS3-CFE2FF?style=flat&logo=css3&logoColor=2965F1&color=CFE2FF&borderRadius=10" />
+  <img src="https://img.shields.io/badge/CSS3-CFE2FF?style=flat&logo=css3&logoColor=2965F1&color=CFE2FF" />
   <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-FFF6C3?style=flat&logo=javascript&logoColor=F7DF1E&color=FFF6C3&borderRadius=10" />
+  <img src="https://img.shields.io/badge/JavaScript-FFF6C3?style=flat&logo=javascript&logoColor=F7DF1E&color=FFF6C3" />
   <!-- VS Code -->
-  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=flat&logo=visual-studio-code&logoColor=007ACC&color=D6F6FF&borderRadius=10" />
+  <img src="https://img.shields.io/badge/VS%20Code-D6F6FF?style=flat&logo=visual-studio-code&logoColor=007ACC&color=D6F6FF" />
 </p>
 
 <p align="center">
@@ -69,13 +69,13 @@ I love exploring new tools, building small projects, and continuously improving 
   Let's Connect!
 </h2>
 
-<!-- FIXED BADGES: Removed unwanted underscore -->
+<!-- FIXED BADGES + REMOVED BLUE UNDERSCORE -->
 <p align="center" style="display:flex; gap:10px; justify-content:center;">
   <a href="mailto:guraycha@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-F9D5D3?style=flat&logo=gmail&logoColor=EA4335&color=F9D5D3&borderRadius=10" />
+    <img src="https://img.shields.io/badge/Email-F9D5D3?style=flat&logo=gmail&logoColor=EA4335&color=F9D5D3" />
   </a>
   <a href="https://github.com/guraycha03" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=flat&logo=github&logoColor=000000&color=DDEBFF&borderRadius=10" />
+    <img src="https://img.shields.io/badge/GitHub-DDEBFF?style=flat&logo=github&logoColor=000000&color=DDEBFF" />
   </a>
 </p>
 
