@@ -86,35 +86,6 @@ I love exploring new tools, building small projects, and continuously improving 
   <img src="https://github-profile-trophy.vercel.app/?username=guraycha03&theme=flat&no-frame=true&row=1&margin-w=5&margin-h=5&title=Commits,Stars,Followers,Repositories" />
 </p>
 
----
-
-<!-- LEARNING & GOALS -->
-<h2 align="left">📚 Currently Learning & Goals</h2>
-
-- 🖥️ Mastering **HTML, CSS, JS**
-- 🎨 Exploring **UI/UX principles**
-- ⚡ Working on **personal projects**
-- 🌱 Goal: Build **my first full-stack website**
-
----
-
-<!-- ACHIEVEMENTS -->
-<h2 align="left">🏅 Achievements</h2>
-
-- 🥇 Completed **10+ mini-projects**  
-- 🌟 Consistently improving my **UI/UX skills**  
-- 🚀 Built my first **responsive website**  
-- 📌 Currently building **SmashPoint** *(Sports E-commerce Site)*
-
----
-
-<!-- FUN FACTS -->
-<h2 align="left">🎀 Fun Facts About Me</h2>
-
-- 🍵 I drink **matcha latte** while coding  
-- 🐱 I love **aesthetic, minimalist designs**  
-- 🎧 Coding + **lofi beats** = perfect combo  
-- ✨ I'm obsessed with **soft pastel palettes**
 
 ---
 
