@@ -6,17 +6,9 @@
 </p>
 
 
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guraycha03&style=flat-square&color=86B6F6" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/guraycha03?style=flat-square&color=86B6F6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/guraycha03?style=flat-square&color=86B6F6" alt="Stars" />
-</p>
-
 <!-- MAIN GIF -->
 <p align="center">
-  <img src="cha.gif" width="240" alt="Cute GIF" />
+  <img src="guray_cha.gif" width="240" alt="Cute GIF" />
 </p>
 
 ---
