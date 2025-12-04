@@ -10,8 +10,6 @@
   <img src="guray_cha.gif" width="240" alt="Cute GIF" />
 </p>
 
-<sub>Icon by <a href="https://www.flaticon.com/free-icons/rabbit" title="rabbit icons">Rabbit icons by Freepik - Flaticon</a></sub>
-
 ---
 
 ## 🌱 About Me
