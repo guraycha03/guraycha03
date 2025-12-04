@@ -54,7 +54,8 @@ I love building projects that are responsive, playful, and visually soft on the 
       <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
     </a>
 
-    <!-- Cute horizontal line -->
+
+
     <hr style="border: 0; height: 2px; background: #F9E6FF; border-radius: 2px; margin: 16px 0;">
   </div>
 
