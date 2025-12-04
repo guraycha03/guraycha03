@@ -57,7 +57,7 @@ I love building projects that are responsive, playful, and visually soft on the 
 </div>
 
 
-<p>— 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 </p>
+<p> — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — </p>
 
 
   <!-- CHASCENT STUDIO -->
