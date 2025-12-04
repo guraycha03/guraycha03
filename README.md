@@ -1,4 +1,4 @@
-<!-- ANIMATED HEADER -->
+I'm<!-- ANIMATED HEADER -->
 <p align="center">
   <a href="https://github.com/guraycha03">
     <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student%2C+Aspiring+Web+Developer;Clean%2C+Minimal%2C+Modern+Design+Lover" alt="Typing SVG" />
@@ -37,7 +37,7 @@ I love building projects that are responsive, playful, and visually soft on the 
   <img src="https://img.shields.io/badge/Vite-F0F0FF?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
 </p>
 
-<sub>Expanding my toolkit & experimenting with modern frameworks ✨</sub>
+<sub>Expanding my toolkit & experimenting with modern frameworks.</sub>
 
 ---
 
@@ -45,15 +45,16 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 <p align="center">
   <a href="https://github.com/guraycha03/note-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=smashpoint&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=note-app&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
   </a>
   <a href="https://github.com/guraycha03/portfolio-cha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=portfolio&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=portfolio-cha&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
   </a>
   <a href="https://github.com/guraycha03/chascent-studio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=chascent-studio&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
   </a>
 </p>
+
 
 ---
 
