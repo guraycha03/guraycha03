@@ -1,4 +1,4 @@
-I'm<!-- ANIMATED HEADER -->
+<!-- ANIMATED HEADER -->
 <p align="center">
   <a href="https://github.com/guraycha03">
     <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student%2C+Aspiring+Web+Developer;Clean%2C+Minimal%2C+Modern+Design+Lover" alt="Typing SVG" />
@@ -43,19 +43,24 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ## 📂 Featured Projects
 
-<p align="center">
-
-  <!-- CHMERA BLOG -->
-  <a href="https://github.com/guraycha03/chmera-blog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=chmera-blog&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
-  </a>
-
-  <!-- CHASCENT STUDIO -->
-  <a href="https://github.com/guraycha03/chascent-studio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=chascent-studio&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
-  </a>
-
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🌿 Chmera Blog</h3>
+      <p>A soft, minimal blog site with clean UI.</p>
+      <a href="https://github.com/guraycha03/chmera-blog">
+        <img src="https://img.shields.io/badge/View%20Repository-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🌸 Chascent Studio</h3>
+      <p>My creative portfolio & UI design playground.</p>
+      <a href="https://github.com/guraycha03/chascent-studio">
+        <img src="https://img.shields.io/badge/View%20Repository-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
