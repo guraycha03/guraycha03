@@ -44,10 +44,10 @@ I love building projects that are responsive, playful, and visually soft on the 
 ## 📂 Featured Projects
 
 <p align="center">
-  <a href="[https://github.com/guraycha03/smashpoint](https://github.com/guraycha03/note-app)">
+  <a href="https://github.com/guraycha03/note-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=smashpoint&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
   </a>
-  <a href="https://github.com/guraycha03/portfolio">
+  <a href="https://github.com/guraycha03/portfolio-cha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=portfolio&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
   </a>
   <a href="https://github.com/guraycha03/chascent-studio">
