@@ -44,16 +44,25 @@ I love building projects that are responsive, playful, and visually soft on the 
 ## 📂 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/guraycha03/note-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=note-app&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
+
+  <!-- NOTE APP -->
+  <a href="https://note-app-one-pearl.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=note-app-one-pearl&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
   </a>
-  <a href="https://github.com/guraycha03/portfolio-cha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=portfolio-cha&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
+
+  <!-- CHMERA BLOG -->
+  <a href="https://github.com/guraycha03/chmera-blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=chmera-blog&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
   </a>
+
+  <!-- CHASCENT STUDIO -->
   <a href="https://github.com/guraycha03/chascent-studio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=chascent-studio&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
   </a>
+
 </p>
+
+
 
 
 
