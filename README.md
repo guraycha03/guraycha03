@@ -45,11 +45,6 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 <p align="center">
 
-  <!-- NOTE APP -->
-  <a href="https://note-app-one-pearl.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=note-app-one-pearl&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
-  </a>
-
   <!-- CHMERA BLOG -->
   <a href="https://github.com/guraycha03/chmera-blog">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=guraycha03&repo=chmera-blog&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6" />
@@ -61,6 +56,7 @@ I love building projects that are responsive, playful, and visually soft on the 
   </a>
 
 </p>
+
 
 
 
