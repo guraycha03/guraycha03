@@ -56,8 +56,9 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 
 
-    <hr style="border: 0; height: 2px; background: #F9E6FF; border-radius: 2px; margin: 16px 0;">
-  </div>
+   <div style="height:2px; background-color:#F9E6FF; border-radius:2px; margin:16px 0;"></div>
+</div>
+
 
   <!-- CHASCENT STUDIO -->
   <div style="display: inline-block; width: 280px; margin: 12px; vertical-align: top; text-align: center; border-radius: 12px; padding: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
