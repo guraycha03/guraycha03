@@ -43,24 +43,27 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ## 📂 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌿 Chmera Blog</h3>
-      <p>A soft, minimal blog site with clean UI.</p>
-      <a href="https://github.com/guraycha03/chmera-blog">
-        <img src="https://img.shields.io/badge/View%20Repository-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td width="50%">
-      <h3>🌸 Chascent Studio</h3>
-      <p>My creative portfolio & UI design playground.</p>
-      <a href="https://github.com/guraycha03/chascent-studio">
-        <img src="https://img.shields.io/badge/View%20Repository-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- CHMERA BLOG -->
+  <div style="border: 1px solid #eaeaea; border-radius: 12px; padding: 16px; margin: 8px; width: 300px; display: inline-block; vertical-align: top;">
+    <h3>Chmera Blog</h3>
+    <p>A simple, soft-themed blog site.</p>
+    <a href="https://github.com/guraycha03/chmera-blog">
+      <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </div>
+
+  <!-- CHASCENT STUDIO -->
+  <div style="border: 1px solid #eaeaea; border-radius: 12px; padding: 16px; margin: 8px; width: 300px; display: inline-block; vertical-align: top;">
+    <h3>Chascent Studio</h3>
+    <p>Creative studio + portfolio playground.</p>
+    <a href="https://github.com/guraycha03/chascent-studio">
+      <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </div>
+
+</div>
 
 
 
