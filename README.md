@@ -5,20 +5,7 @@
   </a>
 </p>
 
-<!-- FLOATING BUBBLES BACKGROUND -->
-<p align="center">
-  <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1765244683/flower_ttjzrh.png" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nikolatechie/pastel-bubbles/main/bubbles.gif" width="100%" alt="floating pastel bubbles" />
-</p>
-
-<!-- MAIN GIF -->
-<p align="center">
-  <img src="guray_cha.gif" width="240" alt="Cute GIF" />
-</p>
-
+<!-- SIMPLE HEADER BACKGROUND -->
 <p align="center">
   <img src="https://singlecolorimage.com/get/FFEEF4/1200x3" />
 </p>
@@ -30,12 +17,12 @@
 I'm a **BSIT student** passionate about creating **clean, modern, and interactive web experiences**.  
 I love building projects that are responsive, playful, and visually soft on the eyes.
 
-- 🌱 Currently learning **HTML**, **CSS**, **JavaScript**, **React**, and **UI/UX design**
-- 🌿 Inspired by **minimalist and pastel-themed web design**
+ Currently learning **HTML**, **CSS**, **JavaScript**, **React**, and **UI/UX design**  
+- Inspired by **minimalist and pastel-themed web design**
 
 ---
 
-## ✨ Mini Bio Cards
+## Mini Bio Cards
 
 <p align="center">
   <img src="https://img.shields.io/badge/I%20love-minimal%20UI-FFDCE6?style=for-the-badge" />
@@ -95,40 +82,11 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ---
 
-## 🎧 Currently Vibing To  
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31s2kbmbrgzczgsb5b2pg6jq2tne&theme=light" width="450"/>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guraycha03&show_icons=true&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6&icon_color=86B6F6" height="160" />
   <img src="https://streak-stats.demolab.com?user=guraycha03&theme=calm&hide_border=true&background=F9FAFB&ring=86B6F6&fire=86B6F6&currStreakLabel=86B6F6" height="160" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## ✨ Aesthetic Contribution Mood  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/white.svg?color=86B6F6&line=E4D9FF&point=86B6F6&area=F5F7FF" width="100%" />
-</p>
-
----
-
-## 🍮 Developer Mood  
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=calm&hideBorder=true" width="500" />
 </p>
 
 ---
