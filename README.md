@@ -10,11 +10,9 @@
   <img src="guray_cha.gif" width="260" />
 </p>
 
-<!-- SIMPLE HEADER BACKGROUND -->
 <p align="center">
-  <img src="https://singlecolorimage.com/get/FFEEF4/1200x3" />
+  <img src="https://singlecolorimage.com/get/FFEEF4/1200x12" />
 </p>
-
 
 ---
 
@@ -89,12 +87,14 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guraycha03&show_icons=true&theme=calm&hide_border=true&bg_color=F9FAFB&title_color=86B6F6&icon_color=86B6F6" height="160" />
-  <img src="https://streak-stats.demolab.com?user=guraycha03&theme=calm&hide_border=true&background=F9FAFB&ring=86B6F6&fire=86B6F6&currStreakLabel=86B6F6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guraycha03&show_icons=true&theme=default&hide_border=true&title_color=86B6F6&icon_color=86B6F6" height="160" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guraycha03&theme=default&hide_border=true&ring=86B6F6&fire=86B6F6&currStreakLabel=86B6F6" height="160" />
 </p>
+
 
 
 ---
