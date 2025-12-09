@@ -33,7 +33,7 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ---
 
-## 💻 Tech & Tools
+## Tech & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-FFE6E6?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -51,7 +51,7 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -65,7 +65,8 @@ I love building projects that are responsive, playful, and visually soft on the 
     </a>
   </div>
 
-  <!-- DIVIDER -->
+
+  
   <p> — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — </p>
 
   <!-- PROJECT CARD 2 -->
@@ -89,28 +90,9 @@ I love building projects that are responsive, playful, and visually soft on the 
   <img src="https://streak-stats.demolab.com?user=guraycha03&theme=calm&hide_border=true&background=F9FAFB&ring=86B6F6&fire=86B6F6&currStreakLabel=86B6F6" height="160" />
 </p>
 
----
-
-## 🎀 2025 Goals
-
-- [x] Learn React basics  
-- [ ] Build my full portfolio site  
-- [ ] Improve UI/UX case studies  
-- [ ] Create 5 creative mini-projects  
-- [ ] Learn animation frameworks  
 
 ---
 
-## 🌸 Soft Skill Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Detail%20Oriented-FFE5F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Creative%20Thinker-DDF0FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Aesthetic%20Design-LIGHTBLUE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fast%20Learner-E6FFE9?style=for-the-badge" />
-</p>
-
----
 
 ## 📫 Let's Connect!
 
