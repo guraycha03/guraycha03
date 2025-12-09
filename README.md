@@ -7,7 +7,7 @@
 
 <!-- FLOATING BUBBLES BACKGROUND -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" width="100%" />
+  <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1765244683/flower_ttjzrh.png" width="100%" />
 </p>
 
 <p align="center">
