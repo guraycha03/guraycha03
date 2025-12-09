@@ -10,9 +10,6 @@
   <img src="guray_cha.gif" width="260" />
 </p>
 
-<p align="center">
-  <img src="https://singlecolorimage.com/get/FFEEF4/1200x12" />
-</p>
 
 ---
 
@@ -71,8 +68,11 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 
   
-  <p> — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — 🤍 — </p>
+<p align="center">
+  <img src="https://singlecolorimage.com/get/FFEEF4/1200x12" />
+</p>
 
+  
   <!-- PROJECT CARD 2 -->
   <div style="display:inline-block;width:280px;margin:12px;vertical-align:top;text-align:center;border-radius:12px;padding:8px;box-shadow:0 4px 8px rgba(0,0,0,0.05);">
     <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" style="border-radius:12px;" />
