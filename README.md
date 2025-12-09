@@ -5,10 +5,16 @@
   </a>
 </p>
 
+<!-- YOUR GIF BELOW THE ANIMATED TEXT -->
+<p align="center">
+  <img src="guray_cha.gif" width="260" />
+</p>
+
 <!-- SIMPLE HEADER BACKGROUND -->
 <p align="center">
   <img src="https://singlecolorimage.com/get/FFEEF4/1200x3" />
 </p>
+
 
 ---
 
