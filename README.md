@@ -56,54 +56,56 @@ I love building projects that are responsive, playful, and visually soft on the 
 </p>
 
 
+
 ## 🍧 Featured Projects
 
 <table border="0" align="center">
   <tr>
-    <td width="50%" align="center">
+    <td align="center" width="800">
+      <br />
       <h3>🌸 Chmera Blog</h3>
       <a href="https://github.com/guraycha03/chmera-blog">
-        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 1"/>
+        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 1" style="border-radius: 15px;"/>
       </a>
-      <p>A minimal blog layout with responsive styling.</p>
+      <p>A minimal blog layout with responsive styling and components.</p>
       <a href="https://github.com/guraycha03/chmera-blog">
         <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
+      <br /><br />
     </td>
-    <td width="50%" align="center">
+  </tr>
+
+  <tr>
+    <td align="center" width="800">
+      <br />
       <h3>✨ Chascent Studio</h3>
       <a href="https://github.com/guraycha03/chascent-studio">
-        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 2"/>
+        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 2" style="border-radius: 15px;"/>
       </a>
-      <p>Creative portfolio playground with modern elements.</p>
+      <p>Creative portfolio playground with modern design elements.</p>
       <a href="https://github.com/guraycha03/chascent-studio">
         <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
+      <br /><br />
     </td>
   </tr>
+
   <tr>
-    <td width="50%" align="center">
+    <td align="center" width="800">
+      <br />
       <h3>☁️ Project Three</h3>
       <a href="#">
-        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 3"/>
+        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 3" style="border-radius: 15px;"/>
       </a>
       <p>A new experience in progress. Coming soon!</p>
       <a href="#">
         <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🎀 Project Four</h3>
-      <a href="#">
-        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 4"/>
-      </a>
-      <p>Building something soft and interactive here.</p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
+      <br /><br />
     </td>
   </tr>
 </table>
+
 
 
 
@@ -131,7 +133,7 @@ I love building projects that are responsive, playful, and visually soft on the 
           </font>
           <br /><br />
           <p align="center">
-             <font color="#FFDCE6">❀───────── •⁠ ᴗ⁠ • ───────❀</font>
+             <font color="#FFDCE6"> 🍥 •⁠ ᴗ⁠ • 🍥 </font>
           </p>
         </td>
       </tr>
