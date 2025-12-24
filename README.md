@@ -12,7 +12,9 @@
   <img src="https://komarev.com/ghpvc/?username=guraycha03&label=Profile%20Views&color=FFDCE6&style=flat" alt="guraycha03" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
 
 ## 🌱 About Me
 
@@ -20,10 +22,12 @@ I'm a **BSIT student** passionate about creating **clean, modern, and interactiv
 I love building projects that are responsive, playful, and visually soft on the eyes.
 
 * 🔭 Currently working on: **My Portfolio Site**
-* 🌱 Currently learning: **React, UI/UX Design**
+* 🌱 Currently learning: **Next.js, React, UI/UX Design**
 * 💕 I love: **Pastel aesthetics & Minimalist UI**
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
 
 ## ☁️ Tech & Tools
 <details>
@@ -34,6 +38,7 @@ I love building projects that are responsive, playful, and visually soft on the 
     <img src="https://img.shields.io/badge/CSS-E0F0FF?style=for-the-badge&logo=css3&logoColor=1572B6" />
     <img src="https://img.shields.io/badge/JavaScript-FFFEE0?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/React-E0F7FF?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-E0E0E0?style=for-the-badge&logo=next.js&logoColor=000000" />
     <img src="https://img.shields.io/badge/Bootstrap-F0E6FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
     <img src="https://img.shields.io/badge/Tailwind-E0FFF7?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />
     <br/>
@@ -45,7 +50,9 @@ I love building projects that are responsive, playful, and visually soft on the 
   </p>
 </details>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
 
 ## 🍧 Featured Projects
 
@@ -74,7 +81,14 @@ I love building projects that are responsive, playful, and visually soft on the 
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+</p>
+
+## 💭 Daily Vibe
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&is_transparent=true" />
+</p>
 
 ## 📈 Activity & Achievements
 
@@ -85,6 +99,7 @@ I love building projects that are responsive, playful, and visually soft on the 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guraycha03&bg_color=ffffff&color=86B6F6&line=86B6F6&point=FFDCE6&area=true&hide_border=true" width="100%" />
 </p>
+
 ---
 
 ## 📫 Let's Connect!
@@ -100,8 +115,6 @@ I love building projects that are responsive, playful, and visually soft on the 
     <img src="https://img.shields.io/badge/GitHub-E4FFE9?style=for-the-badge&logo=github&logoColor=000" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=86B6F6&height=100&section=footer" width="100%" />
