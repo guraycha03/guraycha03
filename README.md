@@ -55,6 +55,7 @@ I love building projects that are responsive, playful, and visually soft on the 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
+
 ## 🍧 Featured Projects
 
 <table border="0" align="center">
@@ -80,7 +81,31 @@ I love building projects that are responsive, playful, and visually soft on the 
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>☁️ Project Three</h3>
+      <a href="#">
+        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 3"/>
+      </a>
+      <p>A new experience in progress. Coming soon!</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🎀 Project Four</h3>
+      <a href="#">
+        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 4"/>
+      </a>
+      <p>Building something soft and interactive here.</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 </table>
+
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
@@ -90,7 +115,7 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 <p align="center">
   <details>
-    <summary><b>✨ Click to reveal your daily inspiration</b></summary>
+    <summary><b>Click to reveal your daily inspiration</b></summary>
     <br />
     <table align="center">
       <tr>
