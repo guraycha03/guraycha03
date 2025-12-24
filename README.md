@@ -87,23 +87,33 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 
 
+
 ## 💭 Daily Vibe
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" style="border: 2px solid #86B6F6; border-radius: 15px; padding: 20px;">
-        <br />
-        <font size="4" color="#86B6F6" face="Quicksand">
-          <b>"You are a rare find, a masterpiece in the making, and enough exactly as you are today."</b>
-        </font>
-        <br /><br />
-        <font color="#FFDCE6">🌸 ✨ 🌸</font>
-        <br />
-      </td>
-    </tr>
-  </table>
-</p>
+<table border="0" align="center">
+  <tr>
+    <td width="300" align="center" style="background-color: #F0F7FF; border: 2px solid #86B6F6; border-radius: 15px; padding: 15px;">
+      <font color="#86B6F6">✨</font><br/>
+      <font face="Quicksand" size="3">"You are a rare find, a masterpiece in the making."</font>
+    </td>
+    <td width="300" align="center" style="background-color: #FFF0F5; border: 2px solid #FFDCE6; border-radius: 15px; padding: 15px;">
+      <font color="#FFB6C1">🌸</font><br/>
+      <font face="Quicksand" size="3">"Be gentle with yourself; you are a garden that needs time to bloom."</font>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center" style="background-color: #F5FFF5; border: 2px solid #C1E1C1; border-radius: 15px; padding: 15px;">
+      <font color="#77DD77">🌿</font><br/>
+      <font face="Quicksand" size="3">"Growth is not always a grand climb; it is staying rooted in the wind."</font>
+    </td>
+    <td width="300" align="center" style="background-color: #FDFDFF; border: 2px solid #86B6F6; border-radius: 15px; padding: 15px;">
+      <font color="#86B6F6">🌙</font><br/>
+      <font face="Quicksand" size="3">"Like the moon, you do not have to be whole to be beautiful."</font>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
