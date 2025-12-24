@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guraycha03&label=Profile%20Views&color=pink&style=flat" alt="guraycha03" />
+  <img src="https://komarev.com/ghpvc/?username=guraycha03&label=Profile%20Views&color=FFDCE6&style=flat" alt="guraycha03" />
 </p>
 
 ---
@@ -79,13 +79,13 @@ I love building projects that are responsive, playful, and visually soft on the 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guraycha03&show_icons=true&hide_border=true&title_color=86B6F6&icon_color=86B6F6&text_color=555&bg_color=00000000" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=guraycha03&show_icons=true&hide_border=true&title_color=86B6F6&icon_color=86B6F6&text_color=666&bg_color=transparent" height="160" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guraycha03&hide_border=true&ring=86B6F6&fire=FFDCE6&currStreakLabel=86B6F6&background=00000000" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guraycha03&hide_border=true&ring=86B6F6&fire=FFDCE6&currStreakLabel=86B6F6&background=transparent" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guraycha03&layout=compact&hide_border=true&title_color=86B6F6&langs_count=6&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guraycha03&layout=compact&hide_border=true&title_color=86B6F6&text_color=666&bg_color=transparent" />
 </p>
 
 ---
