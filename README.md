@@ -76,18 +76,15 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Activity & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guraycha03&show_icons=true&hide_border=true&title_color=86B6F6&icon_color=86B6F6&text_color=666&bg_color=ffffff" height="160" />
-  
-  <img src="https://streak-stats.demolab.com?user=guraycha03&hide_border=true&ring=86B6F6&fire=FFDCE6&currStreakLabel=86B6F6&background=ffffff" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guraycha03&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guraycha03&layout=compact&hide_border=true&title_color=86B6F6&text_color=666&bg_color=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guraycha03&bg_color=ffffff&color=86B6F6&line=86B6F6&point=FFDCE6&area=true&hide_border=true" width="100%" />
 </p>
-
 ---
 
 ## 📫 Let's Connect!
