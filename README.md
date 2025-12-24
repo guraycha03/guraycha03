@@ -86,8 +86,11 @@ I love building projects that are responsive, playful, and visually soft on the 
 </p>
 
 ## 💭 Daily Vibe
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&is_transparent=true" />
+  <a href="https://gist.github.com/guraycha03/74a13cdba910385bfcd491bd1e952911">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=20&pause=4000&color=86B6F6&center=true&vCenter=true&width=800&height=50&lines=You+are+a+masterpiece+in+the+making...;Be+gentle+with+yourself...+%F0%9F%8C%B8;Trust+the+timing+of+your+life...;Softness+is+not+weakness..." />
+  </a>
 </p>
 
 ## 📈 Activity & Achievements
