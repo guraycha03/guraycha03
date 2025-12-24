@@ -88,30 +88,33 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 
 
-## 💭 Daily Vibe
+## 🍥 Daily Vibe
 
 <p align="center">
   <details>
-    <summary align="center">
-      <img src="https://img.shields.io/badge/Click%20for%20Your%20Daily%20Inspiration-86B6F6?style=for-the-badge&logoColor=white" />
-    </summary>
+    <summary><b>✨ Click to reveal your daily inspiration</b></summary>
     <br />
     <table align="center">
       <tr>
-        <td style="border: 2px solid #86B6F6; border-radius: 20px; padding: 30px; background-color: #fafafa;">
+        <td align="left" style="border: 2px solid #86B6F6; border-radius: 20px; padding: 25px; background-color: #FDFDFF;">
+          <font face="Quicksand" size="4" color="#86B6F6"><b>Today's Reminders:</b></font>
+          <br /><br />
           <font face="Quicksand" color="#555">
-            • You are a masterpiece in the making. ✨ <br/><br/>
-            • Be gentle with yourself; you are a garden. 🌸 <br/><br/>
-            • Softness is not weakness; it is courage. ☁️ <br/><br/>
-            • Trust the timing of your life. 🍵 <br/><br/>
-            • You are made of stardust and stories. 🌙
+            🌸 <i>"You are a masterpiece in the making, and enough as you are."</i><br /><br />
+            ☁️ <i>"Be gentle with yourself; you are a garden that needs time to bloom."</i><br /><br />
+            ✨ <i>"Softness is not weakness; it is the courage to stay open."</i><br /><br />
+            🌙 <i>"Like the moon, you do not have to be whole to be beautiful."</i><br /><br />
+            🍵 <i>"Kindness to yourself is the fuel for the dreams you are building."</i>
           </font>
+          <br /><br />
+          <p align="center">
+            <font color="#FFDCE6">───────────────</font>
+          </p>
         </td>
       </tr>
     </table>
   </details>
 </p>
-
 
 
 
