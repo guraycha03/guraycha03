@@ -85,11 +85,27 @@ I love building projects that are responsive, playful, and visually soft on the 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
+
+
 ## 💭 Daily Vibe
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&is_transparent=true&custom_quotes=https://gist.githubusercontent.com/guraycha03/74a13cdba910385bfcd491bd1e952911/raw/&text_color=86B6F6&author_color=FFDCE6" width="600" />
+  <table align="center">
+    <tr>
+      <td align="center" style="border: 2px solid #86B6F6; border-radius: 15px; padding: 20px;">
+        <br />
+        <font size="4" color="#86B6F6" face="Quicksand">
+          <b>"You are a rare find, a masterpiece in the making, and enough exactly as you are today."</b>
+        </font>
+        <br /><br />
+        <font color="#FFDCE6">🌸 ✨ 🌸</font>
+        <br />
+      </td>
+    </tr>
+  </table>
 </p>
+
+
 
 ## 📈 Activity & Achievements
 
