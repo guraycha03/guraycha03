@@ -87,9 +87,9 @@ I love building projects that are responsive, playful, and visually soft on the 
   <tr>
     <td align="center" width="800">
       <br />
-      <h3>☁️ Meowsy Planner</h3>
+      <h3>🫧 Meowsy Planner</h3>
       <a href="#">
-        <img src="https://res.cloudinary.com/di6cgazmo/image/upload/v1768483323/chascent_rclbxx.png" width="100%" alt="Project 3" style="border-radius: 15px;"/>
+        <img src="https://res.cloudinary.com/di6cgazmo/image/upload/v1768485052/Untitled_design_20260115_214630_0000_ygmmcq.png" width="100%" alt="Project 3" style="border-radius: 15px;"/>
       </a>
       <p>Productivity web application designed to help users organize their academic, personal, and professional activities using a clean, intuitive, and modern digital workspace.</p>
       <a href="#">
