@@ -92,7 +92,7 @@ I love building projects that are responsive, playful, and visually soft on the 
         <img src="https://res.cloudinary.com/di6cgazmo/image/upload/v1768485052/Untitled_design_20260115_214630_0000_ygmmcq.png" width="100%" alt="Project 3" style="border-radius: 15px;"/>
       </a>
       <p>Productivity web application designed to help users organize their academic, personal, and professional activities using a clean, intuitive, and modern digital workspace.</p>
-      <a href="#">
+      <a href="https://github.com/guraycha03/meowsy-planner">
         <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br /><br />
