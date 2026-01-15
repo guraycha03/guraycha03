@@ -31,43 +31,37 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 ## ☁️ Tech & Tools
 
-<details>
-  <summary><b>✨ Click to reveal my stack!</b></summary>
-  <br />
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML-FFE6E6?style=for-the-badge&logo=html5&logoColor=E34F26" />
-    <img src="https://img.shields.io/badge/CSS-E0F0FF?style=for-the-badge&logo=css3&logoColor=1572B6" />
-    <img src="https://img.shields.io/badge/JavaScript-FFFEE0?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/React-E0F7FF?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/Next.js-E0E0E0?style=for-the-badge&logo=next.js&logoColor=000000" />
-    <img src="https://img.shields.io/badge/Bootstrap-F0E6FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
-    <img src="https://img.shields.io/badge/Tailwind-E0FFF7?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />
-    <br/>
-    <img src="https://img.shields.io/badge/Node.js-E6F9E6?style=for-the-badge&logo=node.js&logoColor=339933" />
-    <img src="https://img.shields.io/badge/Git-FFEAE6?style=for-the-badge&logo=git&logoColor=F05032" />
-    <img src="https://img.shields.io/badge/GitHub-F0F0FF?style=for-the-badge&logo=github&logoColor=181717" />
-    <img src="https://img.shields.io/badge/VSCode-E6F7FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-    <img src="https://img.shields.io/badge/Vite-F0F0FF?style=for-the-badge&logo=vite&logoColor=646CFF" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-FFE6E6?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS-E0F0FF?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-FFFEE0?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-E0F7FF?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-E0E0E0?style=for-the-badge&logo=next.js&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Bootstrap-F0E6FF?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/Tailwind-E0FFF7?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />
+  <br/>
+  <img src="https://img.shields.io/badge/Node.js-E6F9E6?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Git-FFEAE6?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-F0F0FF?style=for-the-badge&logo=github&logoColor=181717" />
+  <img src="https://img.shields.io/badge/VSCode-E6F7FF?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Vite-F0F0FF?style=for-the-badge&logo=vite&logoColor=646CFF" />
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
 
-
-
-## 🍧 Featured Projects
+## Featured Projects
 
 <table border="0" align="center">
   <tr>
     <td align="center" width="800">
       <br />
-      <h3>🌸 Chmera Blog</h3>
+      <h3>📰 Chmera Blog</h3>
       <a href="https://github.com/guraycha03/chmera-blog">
-        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 1" style="border-radius: 15px;"/>
+        <img src="https://res.cloudinary.com/di6cgazmo/image/upload/v1768483323/chmera_ltdwnn.png" width="100%" alt="Project 1" style="border-radius: 15px;"/>
       </a>
-      <p>A minimal blog layout with responsive styling and components.</p>
+      <p>A clean, minimalist blogging website focused on lifestyle, creativity, and personal insights. Features responsive design, engaging UI/UX, and smooth reading experience across devices.</p>
       <a href="https://github.com/guraycha03/chmera-blog">
         <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -78,11 +72,11 @@ I love building projects that are responsive, playful, and visually soft on the 
   <tr>
     <td align="center" width="800">
       <br />
-      <h3>✨ Chascent Studio</h3>
+      <h3>🍁 Chascent Studio</h3>
       <a href="https://github.com/guraycha03/chascent-studio">
-        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 2" style="border-radius: 15px;"/>
+        <img src="https://res.cloudinary.com/di6cgazmo/image/upload/v1768483323/chascent_rclbxx.png" width="100%" alt="Project 2" style="border-radius: 15px;"/>
       </a>
-      <p>Creative portfolio playground with modern design elements.</p>
+      <p>A sleek product showcase website highlighting sustainable, handmade essentials. Features a minimalist design, smooth animations, and an intuitive layout to present products beautifully.</p>
       <a href="https://github.com/guraycha03/chascent-studio">
         <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -93,11 +87,11 @@ I love building projects that are responsive, playful, and visually soft on the 
   <tr>
     <td align="center" width="800">
       <br />
-      <h3>☁️ Project Three</h3>
+      <h3>☁️ Meowsy Planner</h3>
       <a href="#">
-        <img src="https://res.cloudinary.com/dyjd4nbrf/image/upload/v1764857335/note-app6_hi5i5g.png" width="100%" alt="Project 3" style="border-radius: 15px;"/>
+        <img src="https://res.cloudinary.com/di6cgazmo/image/upload/v1768483323/chascent_rclbxx.png" width="100%" alt="Project 3" style="border-radius: 15px;"/>
       </a>
-      <p>A new experience in progress. Coming soon!</p>
+      <p>Productivity web application designed to help users organize their academic, personal, and professional activities using a clean, intuitive, and modern digital workspace.</p>
       <a href="#">
         <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -106,9 +100,6 @@ I love building projects that are responsive, playful, and visually soft on the 
   </tr>
 </table>
 
-
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
@@ -116,13 +107,10 @@ I love building projects that are responsive, playful, and visually soft on the 
 ## 🍥 Daily Vibe
 
 <p align="center">
-  <details>
-    <summary><b>Click to reveal your daily inspiration</b></summary>
-    <br />
     <table align="center">
       <tr>
         <td align="left" style="border: 2px solid #86B6F6; padding: 25px; background-color: #FDFDFF;">
-          <font face="Quicksand" size="4" color="#86B6F6"><b>Today's Reminders:</b></font>
+          <font face="Quicksand" size="4" color="#86B6F6"><b>Daily Inspiration:</b></font>
           <br /><br />
           <font face="Quicksand" color="#555">
             🌸 <i>"You are a masterpiece in the making, and enough as you are."</i><br /><br />
@@ -138,7 +126,6 @@ I love building projects that are responsive, playful, and visually soft on the 
         </td>
       </tr>
     </table>
-  </details>
 </p>
 
 ## 📈 Activity & Achievements
