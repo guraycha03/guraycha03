@@ -21,9 +21,9 @@
 I'm a **BSIT student** passionate about creating **clean, modern, and interactive web experiences**.  
 I love building projects that are responsive, playful, and visually soft on the eyes.
 
-* 🔭 Currently working on: **My Portfolio Site**
-* 🌱 Currently learning: **Next.js, React, UI/UX Design**
-* 💕 I love: **Pastel aesthetics & Minimalist UI**
+* Currently working on: **My Portfolio Site**
+* Currently learning: **Next.js, React, UI/UX Design**
+* I love: **Pastel aesthetics & Minimalist UI**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
