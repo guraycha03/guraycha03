@@ -23,26 +23,24 @@ I love building projects that are responsive, playful, and visually soft on the 
 
 <br>
 
-<p align="center">
-  <table align="center" style="background-color: #FDFDFF;">
+<div align="center">
+  <table style="background-color: #FDFDFF; border-collapse: collapse;">
     <tr>
       <td align="center" width="160" style="padding: 20px; border: 2px solid #86B6F6; border-right: none;">
-    <img src="PASTE_YOUR_GENERATED_GITHUB_USER_ATTACHMENTS_URL_HERE" width="110" style="border-radius: 50%; border: 3px solid #86B6F6;" alt="Cha Profile" />
-</td>
-
+        <img src="PASTE_YOUR_GENERATED_GITHUB_USER_ATTACHMENTS_URL_HERE" width="110" style="border-radius: 50%; border: 3px solid #86B6F6;" alt="Cha Profile" />
+      </td>
       <td align="left" style="padding: 20px; border: 2px solid #86B6F6; border-left: none;">
-        <h3><font color="#86B6F6">Cha Guray</font></h3>
-        <p><b>Aspiring Web Developer </b></p>
-        <p><sub>Philippines | BSIT Student</sub></p>
-        <br />
-        <!-- Badge button pointing directly to guraycha.info -->
-        <a href="https://guraycha.info">
+        <h3 style="color: #86B6F6; margin: 0 0 5px 0;">Cha Guray</h3>
+        <p style="margin: 0 0 5px 0;"><b>Aspiring Web Developer</b></p>
+        <p style="margin: 0 0 15px 0;"><sub>Philippines | BSIT Student</sub></p>
+        <a href="https://guraycha.info" target="_blank">
           <img src="https://img.shields.io/badge/Gravatar-guraycha.info-86B6F6?style=flat-square&logo=gravatar&logoColor=white" alt="Gravatar Profile" />
         </a>
       </td>
     </tr>
   </table>
-</p>
+</div>
+
 
 <br>
 
