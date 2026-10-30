@@ -27,7 +27,7 @@ I love building projects that are responsive, playful, and visually soft on the 
   <table style="background-color: #FDFDFF; border-collapse: collapse;">
     <tr>
       <td align="center" width="160" style="padding: 20px; border: 2px solid #86B6F6; border-right: none;">
-        <img src="PASTE_YOUR_GENERATED_GITHUB_USER_ATTACHMENTS_URL_HERE" width="110" style="border-radius: 50%; border: 3px solid #86B6F6;" alt="Cha Profile" />
+        <img src="https://raw.githubusercontent.com/guraycha03/portfolio-cha/refs/heads/main/assets/images/cha.jpg?token=GHSAT0AAAAAAEJS4DRX4QYYV6OBB25253D22XES3PA" width="110" style="border-radius: 50%; border: 3px solid #86B6F6;" alt="Cha Profile" />
       </td>
       <td align="left" style="padding: 20px; border: 2px solid #86B6F6; border-left: none;">
         <h3 style="color: #86B6F6; margin: 0 0 5px 0;">Cha Guray</h3>
