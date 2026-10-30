@@ -21,6 +21,28 @@
 I'm a **BSIT student** passionate about creating **clean, modern, and interactive web experiences**.  
 I love building projects that are responsive, playful, and visually soft on the eyes.
 
+
+<p align="center">
+  <table align="center" style="background-color: #FDFDFF;">
+    <tr>
+      <td align="center" width="160" style="padding: 20px; border: 2px solid #86B6F6; border-right: none;">
+        <!-- Avatar image without an <a> link tag (removes hover link icon) -->
+        <img src="guray_cha.gif" width="110" style="border-radius: 50%; border: 3px solid #86B6F6;" alt="Cha Profile" />
+      </td>
+      <td align="left" style="padding: 20px; border: 2px solid #86B6F6; border-left: none;">
+        <h3><font color="#86B6F6">Cha Guray</font></h3>
+        <p><b>Aspiring Web Developer </b></p>
+        <p><sub>Philippines | BSIT Student</sub></p>
+        <br />
+        <!-- Badge button pointing directly to guraycha.info -->
+        <a href="https://guraycha.info">
+          <img src="https://img.shields.io/badge/Gravatar-guraycha.info-86B6F6?style=flat-square&logo=gravatar&logoColor=white" alt="Gravatar Profile" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 <br>
 
 ## ☁️ Tech & Tools
@@ -50,61 +72,6 @@ I love building projects that are responsive, playful, and visually soft on the 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=86B6F6&height=4&animation=twinkle" width="60%" />
 </p>
-
-## Featured Projects
-
-<table border="0" align="center" width="100%">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <br />
-      <h3>📰 Chmera Blog</h3>
-      <a href="https://github.com/guraycha03/chmera-blog">
-        <img src="https://res.cloudinary.com/di6cgazmo/image/upload/v1768483323/chmera_ltdwnn.png" width="100%" alt="Project 1" style="border-radius: 15px;"/>
-      </a>
-      <p>A clean, minimalist blogging website focused on lifestyle, creativity, and personal insights. Features responsive design, engaging UI/UX, and smooth reading experience across devices.</p>
-      <a href="https://github.com/guraycha03/chmera-blog">
-        <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br /><br />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <br />
-      <h3>🍁 Chascent Studio</h3>
-      <a href="https://github.com/guraycha03/chascent-studio">
-        <img src="https://res.cloudinary.com/di6cgazmo/image/upload/v1768483323/chascent_rclbxx.png" width="100%" alt="Project 2" style="border-radius: 15px;"/>
-      </a>
-      <p>A sleek product showcase website highlighting sustainable, handmade essentials. Features a minimalist design, smooth animations, and an intuitive layout to present products beautifully.</p>
-      <a href="https://github.com/guraycha03/chascent-studio">
-        <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br /><br />
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <br />
-      <h3>🫧 Meowsy Planner</h3>
-      <a href="#">
-        <img src="https://res.cloudinary.com/di6cgazmo/image/upload/v1768485052/Untitled_design_20260115_214630_0000_ygmmcq.png" width="100%" alt="Project 3" style="border-radius: 15px;"/>
-      </a>
-      <p>Productivity web application designed to help users organize their academic, personal, and professional activities using a clean, intuitive, and modern digital workspace.</p>
-      <a href="https://github.com/guraycha03/meowsy-planner">
-        <img src="https://img.shields.io/badge/View%20Repo-86B6F6?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <br /><br />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=86B6F6&height=4&animation=twinkle" width="60%" />
-</p>
-
-
 
 
 ## Activity & Achievements
