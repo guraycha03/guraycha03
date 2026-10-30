@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/guraycha03">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student%2C+Aspiring+Web+Developer;Clean%2C+Minimal%2C+Modern+Design+Lover;Creating+Soft+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student%2C+Aspiring+Frontend+Developer;Clean%2C+Minimal%2C+Modern+Design+Lover;Creating+Soft+Digital+Experiences" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ I love building projects that are responsive, playful, and visually soft on the 
       </td>
       <td align="left" style="padding: 20px; border: 2px solid #86B6F6; border-left: none;">
         <h3 style="color: #86B6F6; margin: 0 0 5px 0;">Cha Guray</h3>
-        <p style="margin: 0 0 5px 0;"><b>Aspiring Web Developer</b></p>
+        <p style="margin: 0 0 5px 0;"><b>Aspiring Frontend Developer</b></p>
         <p style="margin: 0 0 15px 0;"><sub>Philippines | BSIT Student</sub></p>
         <a href="https://guraycha.info" target="_blank">
           <img src="https://img.shields.io/badge/Gravatar-guraycha.info-86B6F6?style=flat-square&logo=gravatar&logoColor=white" alt="Gravatar Profile" />
