@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/guraycha03">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student%2C+Aspiring+Web+Developer;Clean%2C+Minimal%2C+Modern+Design+Lover;Creating+Soft+Digital+Experiences+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=22&pause=1000&color=86B6F6&center=true&vCenter=true&width=600&lines=🍡+Hi%2C+I'm+Cha!+🍵;BSIT+Student%2C+Aspiring+Web+Developer;Clean%2C+Minimal%2C+Modern+Design+Lover;Creating+Soft+Digital+Experiences" alt="Typing SVG" />
   </a>
 </p>
 
@@ -8,28 +8,28 @@
   <img src="guray_cha.gif" width="260" style="border-radius: 50%;" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guraycha03&label=Profile%20Views&color=FFDCE6&style=flat" alt="guraycha03" />
-</p>
+
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=d2f0b9&height=4&animation=twinkle" width="60%" />
 </p>
 
-## 🌱 About Me
+
+<h2>$\color{#78ad58}{\mathbf{\text{ 🌱 About Me }}}$</h2>
+
 
 I'm a **BSIT student** passionate about creating **clean, modern, and interactive web experiences**.  
 I love building projects that are responsive, playful, and visually soft on the eyes.
 
-* Currently working on: **My Portfolio Site**
-* Currently learning: **Next.js, React, UI/UX Design**
-* I love: **Pastel aesthetics & Minimalist UI**
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-</p>
+<br>
 
 ## ☁️ Tech & Tools
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=86B6F6&height=4&animation=twinkle" width="60%" />
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-FFE6E6?style=for-the-badge&logo=html5&logoColor=E34F26" />
@@ -48,14 +48,14 @@ I love building projects that are responsive, playful, and visually soft on the 
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=86B6F6&height=4&animation=twinkle" width="60%" />
 </p>
 
 ## Featured Projects
 
-<table border="0" align="center">
+<table border="0" align="center" width="100%">
   <tr>
-    <td align="center" width="800">
+    <td align="center" style="padding: 10px;">
       <br />
       <h3>📰 Chmera Blog</h3>
       <a href="https://github.com/guraycha03/chmera-blog">
@@ -70,7 +70,7 @@ I love building projects that are responsive, playful, and visually soft on the 
   </tr>
 
   <tr>
-    <td align="center" width="800">
+    <td align="center" style="padding: 10px;">
       <br />
       <h3>🍁 Chascent Studio</h3>
       <a href="https://github.com/guraycha03/chascent-studio">
@@ -85,7 +85,7 @@ I love building projects that are responsive, playful, and visually soft on the 
   </tr>
 
   <tr>
-    <td align="center" width="800">
+    <td align="center" style="padding: 10px;">
       <br />
       <h3>🫧 Meowsy Planner</h3>
       <a href="#">
@@ -101,37 +101,29 @@ I love building projects that are responsive, playful, and visually soft on the 
 </table>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=86B6F6&height=4&animation=twinkle" width="60%" />
 </p>
 
-## 🍥 Daily Vibe
 
+
+
+## Activity & Achievements
+
+<!-- Profile Details Card -->
 <p align="center">
-    <table align="center">
-      <tr>
-        <td align="left" style="border: 2px solid #86B6F6; padding: 25px; background-color: #FDFDFF;">
-          <font face="Quicksand" size="4" color="#86B6F6"><b>Daily Inspiration:</b></font>
-          <br /><br />
-          <font face="Quicksand" color="#555">
-            🌸 <i>"You are a masterpiece in the making, and enough as you are."</i><br /><br />
-            ☁️ <i>"Be gentle with yourself; you are a garden that needs time to bloom."</i><br /><br />
-            ✨ <i>"Softness is not weakness; it is the courage to stay open."</i><br /><br />
-            🌙 <i>"Like the moon, you do not have to be whole to be beautiful."</i><br /><br />
-            🍵 <i>"Kindness to yourself is the fuel for the dreams you are building."</i>
-          </font>
-          <br /><br />
-          <p align="center">
-             <font color="#FFDCE6"> 🍥 •⁠ ᴗ⁠ • 🍥 </font>
-          </p>
-        </td>
-      </tr>
-    </table>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guraycha03&theme=nord_bright" width="100%" />
 </p>
 
-## 📈 Activity & Achievements
-
+<!-- Top Languages Card -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guraycha03&bg_color=ffffff&color=86B6F6&line=86B6F6&point=FFDCE6&area=true&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guraycha03&theme=solarized" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guraycha03&theme=solarized" width="48%" />
+</p>
+
+<!-- Commit Stats & Productive Time Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=guraycha03&theme=nord_bright" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guraycha03&theme=nord_bright" width="48%" />
 </p>
 
 ---
@@ -155,5 +147,7 @@ I love building projects that are responsive, playful, and visually soft on the 
 </p>
 
 <p align="center">
-  <sub>｡🌸 Thank you for visiting my profile 🌸｡</sub>
+  <sub>
+  🍥 • ᴗ • 🍥
+  </sub>
 </p>
