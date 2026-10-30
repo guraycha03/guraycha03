@@ -21,14 +21,15 @@
 I'm a **BSIT student** passionate about creating **clean, modern, and interactive web experiences**.  
 I love building projects that are responsive, playful, and visually soft on the eyes.
 
+<br>
 
 <p align="center">
   <table align="center" style="background-color: #FDFDFF;">
     <tr>
       <td align="center" width="160" style="padding: 20px; border: 2px solid #86B6F6; border-right: none;">
-        <!-- Avatar image without an <a> link tag (removes hover link icon) -->
-        <img src="guray_cha.gif" width="110" style="border-radius: 50%; border: 3px solid #86B6F6;" alt="Cha Profile" />
-      </td>
+    <img src="PASTE_YOUR_GENERATED_GITHUB_USER_ATTACHMENTS_URL_HERE" width="110" style="border-radius: 50%; border: 3px solid #86B6F6;" alt="Cha Profile" />
+</td>
+
       <td align="left" style="padding: 20px; border: 2px solid #86B6F6; border-left: none;">
         <h3><font color="#86B6F6">Cha Guray</font></h3>
         <p><b>Aspiring Web Developer </b></p>
